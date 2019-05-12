@@ -2,4 +2,5 @@
 
 #VMware
 
-* https://thevirtualist.org/creating-customizable-linux-ovf-template/
+* Create OVF templates.
+  * https://thevirtualist.org/creating-customizable-linux-ovf-template/
